@@ -16,3 +16,22 @@ This project allows two players to play over a LAN network.
 - Socket Programming
 - Client–Server Model
 - Python
+
+# Networked Tic Tac Toe 🎮
+
+A simple Tic Tac Toe game implemented using Python sockets,
+allowing two players to play over a LAN network.
+
+## Files
+- server.py – Runs the game server (Player X)
+- client.py – Connects to server (Player O)
+
+## How to Run
+1. Run `server.py` on one computer
+2. Run `client.py` on another computer (same network)
+3. Enter the server IP when prompted
+
+## Technologies Used
+- Python
+- Socket Programming
+- Tkinter (GUI)
