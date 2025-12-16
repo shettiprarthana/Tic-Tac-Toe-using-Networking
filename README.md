@@ -16,6 +16,7 @@ This project allows two players to play over a LAN network.
 - Socket Programming
 - Client–Server Model
 - Python
+- modules like tkinter, socket and threading
 
 # Networked Tic Tac Toe 🎮
 
@@ -35,3 +36,4 @@ allowing two players to play over a LAN network.
 - Python
 - Socket Programming
 - Tkinter (GUI)
+- thread from Threading
